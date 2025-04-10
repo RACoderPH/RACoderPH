@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Mobile Developer with a strong passion for creating robust, scalable applications. With expertise in both frontend and backend technologies, I design and develop high-performance mobile solutions that ensure seamless user experiences and efficient functionality.
+I am a Web & Mobile Developer with a strong passion for creating robust, scalable applications. With expertise in both frontend and backend technologies, I design and develop high-performance mobile solutions that ensure seamless user experiences and efficient functionality.
 
 
 ## 🌐 Socials:
